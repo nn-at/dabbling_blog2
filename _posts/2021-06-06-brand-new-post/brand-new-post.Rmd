@@ -1,0 +1,28 @@
+---
+title: "brand new post"
+description: |
+  A short description of the post.
+draft: false
+preview: nn-at.png
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 04-06-2021
+categories:
+  - projects
+  - data catalogue
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+including a link to a [picture](nn-at.png)

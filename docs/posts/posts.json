@@ -1,0 +1,59 @@
+[
+  {
+    "path": "posts/2021-06-06-a-second-post/",
+    "title": "a second post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-06",
+    "categories": [
+      "projects",
+      "catalogue"
+    ],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-06-06-a-second-post/a-second-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2021-06-06T20:46:07-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to dabbling blog",
+    "description": "Welcome to our new blog, dabbling blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-05-06",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2021-06-06T20:50:12-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-06-06-brand-new-post/",
+    "title": "brand new post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-06",
+    "categories": [
+      "projects",
+      "data catalogue"
+    ],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\nincluding a link to a picture\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-06-06-brand-new-post/nn-at.png",
+    "last_modified": "2021-06-06T20:51:03-04:00",
+    "input_file": {}
+  }
+]

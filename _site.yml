@@ -1,0 +1,23 @@
+name: "dabbling_blog"
+title: "dabbling blog"
+description: |
+  a dabbling blog - playing with R and data
+#base_url: https://
+output_dir: "docs"
+collections:
+  posts:
+    authors_metadata: false
+navbar:
+  logo:
+    image: nn-at.png
+    href: https://djnavarro.net
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Features"
+      href: features.html
+    - icon: fa fa-rss
+      href: index.html
+output: distill::distill_article
