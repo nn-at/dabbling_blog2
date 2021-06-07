@@ -20,6 +20,23 @@
     "input_file": {}
   },
   {
+    "path": "posts/2021-06-06-newest-post/",
+    "title": "newest post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-06",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-06T22:44:34-04:00",
+    "input_file": "newest-post.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to dabbling blog",
     "description": "Welcome to our new blog, dabbling blog. We hope you enjoy \nreading what we have to say!",
