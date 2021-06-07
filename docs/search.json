@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-06T20:55:12-04:00"
+    },
+    {
+      "path": "features.html",
+      "title": "Featured posts",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-06T20:55:12-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "playing with R and data",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-06T20:55:13-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
